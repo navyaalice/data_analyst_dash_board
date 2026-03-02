@@ -61,5 +61,3 @@ Project Documentation
 ## Disclaimer
 
 This project was developed for learning and portfolio purposes using a publicly available internship dataset. It does not represent real company data.
-
-This project was developed for learning and portfolio purposes using a publicly available internship dataset. It does not represent real company data.
